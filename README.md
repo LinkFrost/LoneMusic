@@ -1,4 +1,4 @@
-# CS 326 Final Project
+# LoneMusic
 
 Final Project for CS 326 Web Programming @ UMass Amherst : Lone Music
 
